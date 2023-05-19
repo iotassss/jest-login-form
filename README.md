@@ -7,6 +7,8 @@
 https://nextjs-ja-translation-docs.vercel.app/docs/testing#jest-%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B-rust-%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E3%82%92%E5%88%A9%E7%94%A8:~:text=Jest%20%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B%20(Rust%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E3%82%92%E5%88%A9%E7%94%A8)<br>
 - 記事
 https://zenn.dev/shunshimono/articles/2023-04-10_test
+- Jest駆動開発
+https://tech.uzabase.com/entry/2021/03/17/165008
 
 ---
 
